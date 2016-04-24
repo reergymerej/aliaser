@@ -1,0 +1,1 @@
+var aliasedRequire = require('coolAlias#1')
